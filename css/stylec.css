@@ -1,0 +1,25 @@
+* {
+  align-items: center;
+}
+
+body {
+  background-color: #bbf163;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+}
+
+h1 {
+  color: lightseagreen;
+  font-style: oblique;
+}
+
+td {
+  color: rgb(165, 42, 114);
+  font-style: oblique;
+}

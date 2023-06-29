@@ -1,0 +1,51 @@
+* {
+   align-items: center;
+   scroll-behavior: smooth;
+}
+
+body {
+   background-color: mistyrose;
+}
+
+hr {
+   border-style: none;
+   border-top-style: double;
+   border-color: grey;
+   border-width: 100%;
+   width: 80%;
+   color: cadetblue;
+}
+
+h1 {
+   color: palevioletred;
+   font-style: italic;
+   font-size: 50px;
+}
+
+h3 {
+   color: blue;
+   font-style: oblique;
+   font-size: 25px;
+}
+
+img {
+   background-color: aqua;
+   border-radius: 10%;
+}
+
+p.hover {
+   color: blueviolet;
+}
+
+table: {
+   color: rgb(80, 255, 159);
+
+}
+
+td {
+   color: brown;
+}
+
+p:hover {
+   color: rgb(58, 95, 3);
+}
